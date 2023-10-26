@@ -11,14 +11,6 @@
     --accent-color-dark:#1d69a3;
     --padding-inline-section:20px;
 }
-body{
-    font-family:'Poppins','Sans-serif';
-    color:var(--primary-text-color);
-    overflow-x: hidden;
-    overflow-y:auto;
-   
-   
-}
 ul{
     text-decoration: none;
     
@@ -302,6 +294,13 @@ footer{
     display:flex;
     align-items: center;
     padding-left: 150px;
+}
+
+body{
+    font-family:'Poppins','Sans-serif';
+    color:var(--primary-text-color);
+    overflow-x: hidden;
+    overflow-y:auto; 
 }
 
 
