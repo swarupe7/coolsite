@@ -14,7 +14,8 @@
 body{
     font-family:'Poppins','Sans-serif';
     color:var(--primary-text-color);
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y:auto;
    
    
 }
